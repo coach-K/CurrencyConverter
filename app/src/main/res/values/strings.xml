@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter App</string>
+    <string name="access_token">af0d77afdf1a085f90fbe99053e60136</string>
+    <string name="from_currency">From:</string>
+    <string name="to_currency">To:</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_amount">Enter Amount</string>
+</resources>
