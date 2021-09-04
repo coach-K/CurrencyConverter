@@ -1,2 +1,2 @@
-# CurrencyCoverter
+# CurrencyConverter
 A currency converter app
